@@ -10,7 +10,7 @@ export default function shutdownNotice({ close }) {
         <div className={classes.warningContainer}>
           <PowerSettingsNewIcon className={ classes.warningIcon } />
           <Typography className={classes.para2} align='center'>
-            This service will no longer be available from 03 April 2022.
+            This service will work forever dont worry.
           </Typography>
           <Typography className={classes.para2} align='center'>
             The source code is open source, anyone that would like to continue hosting this service is welcome to.
